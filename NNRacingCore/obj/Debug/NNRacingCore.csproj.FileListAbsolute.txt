@@ -1,0 +1,14 @@
+D:\Projects_CSharp\NNRacing\NNRacingCore\bin\Debug\NNRacingCore.dll
+D:\Projects_CSharp\NNRacing\NNRacingCore\bin\Debug\NNRacingCore.pdb
+D:\Projects_CSharp\NNRacing\NNRacingCore\obj\Debug\NNRacingCore.dll
+D:\Projects_CSharp\NNRacing\NNRacingCore\obj\Debug\NNRacingCore.pdb
+D:\Projects_CSharp\NNRacing\NNRacingCore\obj\Debug\NNRacingCore.csprojResolveAssemblyReference.cache
+D:\Projects_CSharp\NNRacing\NNRacingCore\bin\Debug\GeneticNN.dll
+D:\Projects_CSharp\NNRacing\NNRacingCore\bin\Debug\GeneticNN.pdb
+D:\Projects_CSharp\NNRacing_\NNRacingCore\bin\Debug\NNRacingCore.dll
+D:\Projects_CSharp\NNRacing_\NNRacingCore\bin\Debug\NNRacingCore.pdb
+D:\Projects_CSharp\NNRacing_\NNRacingCore\bin\Debug\GeneticNN.dll
+D:\Projects_CSharp\NNRacing_\NNRacingCore\bin\Debug\GeneticNN.pdb
+D:\Projects_CSharp\NNRacing_\NNRacingCore\obj\Debug\NNRacingCore.csprojResolveAssemblyReference.cache
+D:\Projects_CSharp\NNRacing_\NNRacingCore\obj\Debug\NNRacingCore.dll
+D:\Projects_CSharp\NNRacing_\NNRacingCore\obj\Debug\NNRacingCore.pdb

@@ -1,0 +1,14 @@
+D:\Projects_CSharp\NNRacing_\NNRacingCore\bin\Release\NNRacingCore.dll
+D:\Projects_CSharp\NNRacing_\NNRacingCore\bin\Release\NNRacingCore.pdb
+D:\Projects_CSharp\NNRacing_\NNRacingCore\bin\Release\GeneticNN.dll
+D:\Projects_CSharp\NNRacing_\NNRacingCore\bin\Release\GeneticNN.pdb
+D:\Projects_CSharp\NNRacing_\NNRacingCore\obj\Release\NNRacingCore.csprojResolveAssemblyReference.cache
+D:\Projects_CSharp\NNRacing_\NNRacingCore\obj\Release\NNRacingCore.dll
+D:\Projects_CSharp\NNRacing_\NNRacingCore\obj\Release\NNRacingCore.pdb
+D:\Projects_CSharp\NNRacing\NNRacingCore\bin\Release\NNRacingCore.dll
+D:\Projects_CSharp\NNRacing\NNRacingCore\bin\Release\NNRacingCore.pdb
+D:\Projects_CSharp\NNRacing\NNRacingCore\bin\Release\GeneticNN.dll
+D:\Projects_CSharp\NNRacing\NNRacingCore\bin\Release\GeneticNN.pdb
+D:\Projects_CSharp\NNRacing\NNRacingCore\obj\Release\NNRacingCore.csprojResolveAssemblyReference.cache
+D:\Projects_CSharp\NNRacing\NNRacingCore\obj\Release\NNRacingCore.dll
+D:\Projects_CSharp\NNRacing\NNRacingCore\obj\Release\NNRacingCore.pdb
